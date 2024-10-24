@@ -1,4 +1,4 @@
 # projeto-com-php
 Aprendendo a programar com a triade web, mySql e PHP
 
-Primeiro texto.
+teste de erro de merge.
